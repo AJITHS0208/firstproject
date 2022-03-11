@@ -1,0 +1,26 @@
+/*
+1.Static
+2.Relative
+    LTRB
+3.Absolute
+    LTRB
+    Relative
+4.Fixed
+5.Sticky
+*/
+
+.main {
+}
+
+.box1 {
+ position: static;
+ 
+}
+
+.box2 {
+
+}
+
+.box3 {
+
+}
